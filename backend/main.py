@@ -845,5 +845,3 @@ Instructions:
             status_code=502,
             detail=f"Groq request failed: {type(exc).__name__}: {exc}"
         )
-
-
